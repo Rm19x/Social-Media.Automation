@@ -1,0 +1,8 @@
+{
+    "name": "mr-rm19/social-panel-cli",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
